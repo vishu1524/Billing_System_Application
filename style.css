@@ -23,6 +23,9 @@ body {
 
 }
 
+.form-control{
+    width:160px;
+}
 .color {
     border: #1d2630;
     color: white;
